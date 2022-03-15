@@ -1,0 +1,7 @@
+body{
+     /* background-image: url(background.jpg);  */
+     background-image: linear-gradient(rgba(4, 4, 30, 0.2),rgba(4,9,30,0.7)), url(backgroundd.jpg);
+     background-position: bottom;
+     background-size: cover;
+} 
+
